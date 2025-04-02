@@ -1,2 +1,2 @@
 # Tutorials
-Its a Tutorials 
+Its a Tutorial
